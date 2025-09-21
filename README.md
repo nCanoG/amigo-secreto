@@ -1,5 +1,7 @@
 El siguiente Challenge de amigo secreto permite ingresar diversos nombres para que al azar se selecciones uno, todo esto bajo la dinamica del amigo secreto.
 
+Para poder utilizarlo, se debe descargar la carpeta completa de amigo-secreto, una vez descargada se debe abrir el archico index.html con tu navegador, y podrás comenzar a utilizarlo de inmediato.
+
 Este no permite ingresar nombres en blanco, y para esto aparece una alerta notificando al usuario.
 
 <img width="1117" height="960" alt="image" src="https://github.com/user-attachments/assets/3cdf45f6-914a-403b-9a67-8eb29da344c1" />
