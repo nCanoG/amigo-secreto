@@ -15,3 +15,5 @@ A su vez, para que tenga sentido el tener una pagina que realice el sorteo al az
 Una vez sorteado el nombre, la pagína se encuentra lista para recibir una nueva lista y comenzar un nuevo sorteo.
 
 <img width="850" height="801" alt="image" src="https://github.com/user-attachments/assets/fc306e09-dbc6-45a9-bb34-9cb6f45a273d" />
+
+Se da por finalizado el challenge, aún hay cosas que se pueden mejorar con el tiempo.
